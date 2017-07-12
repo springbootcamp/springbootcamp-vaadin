@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: springbootcamp-vaadin
+
+info:
+  name: ${spring.application.name}
